@@ -30,7 +30,7 @@ export const HERO = {
   name: "Gautam Joshi",
   greet: "Hello there! 👋🏻",
   description:
-    "I am a passionate frontend developer with a knack for creating beautiful and functional user interfaces. I like transforming ideas into engaging web experiences for over a decade.",
+    "I am a passionate frontend developer with a knack for creating beautiful and functional user interfaces. I like transforming ideas into engaging web experiences.",
 };
 
 export const PROJECTS = [
