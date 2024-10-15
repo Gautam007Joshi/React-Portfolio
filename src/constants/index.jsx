@@ -105,6 +105,13 @@ export const EXPERIENCES = [
     description:
       "During my internship at Bestdesk IT Solutions, I worked as a Web Developer, focusing on creating responsive websites using HTML, CSS, JavaScript, and React. I collaborated with the team to implement dynamic features and optimize performance. I also gained experience in backend development using PHP, enhancing my full-stack development skills.",
   },
+  {
+    title: "React Developer Intern",
+    company: "SERPSHINE",
+    duration: "April 2024 - August 2024",
+    description:
+      "As a React Developer Intern at  Serpshine, I contributed to developing scalable front-end applications using React. I worked on implementing new features, optimizing UI performance, and collaborating with the backend team for API integration. I also gained exposure to state management using Redux.",
+  },
 ];
 
 export const EDUCATION = [
