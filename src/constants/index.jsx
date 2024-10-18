@@ -9,6 +9,7 @@ import {
 import projectImage1 from "../assets/project1.jpeg";
 import projectImage2 from "../assets/project2.jpeg";
 import projectImage3 from "../assets/project3.jpeg";
+import projectImage4 from "../assets/project4.jpg";
 
 import { RiReactjsLine } from "react-icons/ri";
 
@@ -54,6 +55,13 @@ export const PROJECTS = [
     description:
       "Developed a chess game using C++, implementing features like player-vs-player mode, move validation, and a basic graphical interface to simulate a full chess-playing experience.",
     image: projectImage3,
+  },
+  {
+    id:4,
+    name: "Crypto Master",
+    description:
+      "A real-time cryptocurrency tracker that offers live updates on the top digital currencies. This project showcases my ability to work with API integration and data handling",
+      image: projectImage4,
   },
 ];
 
@@ -110,7 +118,7 @@ export const EXPERIENCES = [
     company: "SERPSHINE",
     duration: "April 2024 - August 2024",
     description:
-      "As a React Developer Intern at  Serpshine, I contributed to developing scalable front-end applications using React. I worked on implementing new features, optimizing UI performance, and collaborating with the backend team for API integration. I also gained exposure to state management using Redux.",
+      "As a React Developer Intern at SERPSHINE, I contributed to developing scalable front-end applications using React. I worked on implementing new features, optimizing UI performance, and collaborating with the backend team for API integration. I also gained exposure to state management using Redux.",
   },
 ];
 
