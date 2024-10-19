@@ -9,7 +9,7 @@ import {
 import projectImage1 from "../assets/project1.jpeg";
 import projectImage2 from "../assets/project2.jpeg";
 import projectImage3 from "../assets/project3.jpeg";
-import projectImage4 from "../assets/project4.jpg";
+import projectImage4 from "../assets/project4.jpeg";
 
 import { RiReactjsLine } from "react-icons/ri";
 
